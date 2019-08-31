@@ -1,7 +1,14 @@
 A simple Flask API running in a Docker container.
 
-# Requirements
-[docker](https://www.docker.com/get-docker)
+── api
+    ├── app.py
+    ├── requirements.txt
+── data
+    ├── stocks.db
+── docker-compose.yml
+── Dockerfile
+── README.md
+
 
 # Usage
 Clone this repository
